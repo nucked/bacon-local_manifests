@@ -1,2 +1,2 @@
 # bacon-local_manifests
-cm-12.0-YNG4N
+CM12.1-YOG4P
